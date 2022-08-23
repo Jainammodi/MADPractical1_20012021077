@@ -6,7 +6,7 @@ fun main()
     println("Float Value: $f")
     var c:Char = 'H'
     println("Character Value: $c")
-    var s:String = "harsh"
+    var s:String = "Jainam"
     println("String Value: $s")
     var b:Boolean = false
     println("Boolean Value: $b")
